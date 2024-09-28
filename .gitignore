@@ -1,0 +1,15 @@
+# Node modules for all microservices
+**/node_modules
+
+# Logs
+**/logs
+*.log
+
+# OS and Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files
+**/.env
